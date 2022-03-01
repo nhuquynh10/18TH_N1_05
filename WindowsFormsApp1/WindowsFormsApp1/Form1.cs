@@ -16,5 +16,14 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string userName = textBox1.Text;
+            string password = textBox2.Text;
+            if (userName == "admin" && password == "admin") {
+                MessageBox.Show("login successful");
+            }
+        }
     }
 }
