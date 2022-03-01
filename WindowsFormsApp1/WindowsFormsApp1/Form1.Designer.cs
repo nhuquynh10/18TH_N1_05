@@ -43,7 +43,7 @@ namespace WindowsFormsApp1
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(61, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Username1";
+            this.label1.Text = "Username3";
             // 
             // textBox1
             // 
@@ -66,7 +66,7 @@ namespace WindowsFormsApp1
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(59, 13);
             this.label2.TabIndex = 2;
-            this.label2.Text = "Password1";
+            this.label2.Text = "Password3";
             // 
             // button1
             // 
